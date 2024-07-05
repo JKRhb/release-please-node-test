@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/JKRhb/release-please-node-test/compare/v0.1.0...v0.2.0) (2024-07-05)
+
+
+### Features
+
+* say goodbye instead of hello ([ef125c5](https://github.com/JKRhb/release-please-node-test/commit/ef125c59e4a1a4c4aa051bd647fb90238c77b6f8))
+
+
+### Bug Fixes
+
+* remove obsolete comment ([94f0b1f](https://github.com/JKRhb/release-please-node-test/commit/94f0b1f5180ff4425f8eae8aa6eacbd29838cbb0))
+
 ## [0.1.0](https://github.com/JKRhb/release-please-node-test/compare/v0.0.1...v0.1.0) (2024-07-05)
 
 
