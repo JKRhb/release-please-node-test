@@ -22,7 +22,4 @@ jobs:
 
           release-type: node
 
-          # optional. customize path to release-please-config.json
           config-file: release-please-config.json
-          # optional. customize path to .release-please-manifest.json
-          manifest-file: .release-please-manifest.json
