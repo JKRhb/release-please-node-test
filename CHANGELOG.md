@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/JKRhb/release-please-node-test/compare/v0.2.0...v0.3.0) (2024-07-05)
+
+
+### Features
+
+* hello there ([2f321ce](https://github.com/JKRhb/release-please-node-test/commit/2f321ce0f53b2ec0a2053f839837bcaff442a293))
+
 ## [0.2.0](https://github.com/JKRhb/release-please-node-test/compare/v0.1.0...v0.2.0) (2024-07-05)
 
 
