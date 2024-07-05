@@ -1,4 +1,5 @@
 {
     "bump-minor-pre-major": false,
-    "bump-major-pre-major": false
+    "bump-major-pre-major": false,
+    ".": "1.0.0"
 }
