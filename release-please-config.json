@@ -1,4 +1,10 @@
 {
-    "bump-minor-pre-major": false,
-    "bump-patch-for-minor-pre-major": false
-}
+    "release-type": "node",
+    "tag-separator": "@",
+    "include-component-in-tag": true,
+    "packages": {
+      ".": {
+        "package-name": "release-please-node-test"
+      }
+    }
+  }

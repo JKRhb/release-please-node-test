@@ -1,0 +1,5 @@
+{
+  ".": "0.0.1",
+  "bump-minor-pre-major": false,
+  "bump-patch-for-minor-pre-major": false
+}
